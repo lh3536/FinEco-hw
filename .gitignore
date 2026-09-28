@@ -1,0 +1,16 @@
+# Restricted CSMAR raw data
+**/data/raw/
+**/data_raw_zip/
+*.zip
+
+# Temporary / cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
